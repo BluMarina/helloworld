@@ -1,0 +1,9 @@
+#includes <stdio.h>
+#includes <string.h>
+#includes <stdlib.h>
+#includes <math.h>
+
+int main(void){
+  printf("Hello, world!\n");
+
+}
